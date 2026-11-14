@@ -1,102 +1,97 @@
-# Codinary Services
+# Codizary Services
 
-Codinary is an all-in-one service provider offering a comprehensive range of coding, fixing, social media management (SMM), digital designing, and hosting services.
+Codizary is a software development and IT solutions company: business software, websites, mobile apps and AI automation — built, hosted and supported by one team.
 
-<details>
-<summary><strong>Coding/Fixing Capabilities</strong></summary>
-<br>
+## Business Software
 
-- **Node.js**: Codinary provides expertise in Node.js development and bug fixing. Whether you need to build a robust backend or resolve issues in your Node.js project, Codinary has got you covered.
+Software built around how your business already works — one system for sales, stock, billing, staff and customers instead of a pile of spreadsheets.
 
-- **Python**: Codinary offers coding and troubleshooting services for Python-based projects. From developing scalable applications to debugging existing code, Codinary's Python experts are here to assist you.
+- Software built around how your business already works — one system for sales, stock, billing, staff and customers instead of a pile of spreadsheets.
+- CRM and customer or client portals
+- ERP and business management systems
+- Inventory, billing, invoicing and POS
+- Accounting, HR and payroll
+- Appointment and booking systems
+- Document, project and task management
+- Applications specific to your industry
 
-- **PHP**: Codinary can help you with PHP coding and resolving issues in PHP applications. Whether you're building a dynamic website or need help with PHP frameworks, Codinary's PHP specialists are ready to help.
+## Websites & Online Stores
 
-- **HTML/CSS/JS**: Codinary provides expertise in web development technologies like HTML, CSS, and JavaScript. Whether you need help in building responsive web pages or fixing frontend issues, Codinary's web development team is at your service.
+Company websites, online stores and landing pages that load fast, work properly on a phone, and are easy for you to keep up to date.
 
-- **React.js**: Codinary has experience working with React.js and can help you develop or fix React-based applications. Whether it's building interactive user interfaces or resolving React-specific challenges, Codinary's React.js experts can assist you.
+- Company websites, online stores and landing pages that load fast, work properly on a phone, and are easy for you to keep up to date.
+- Business and corporate websites
+- E-commerce stores
+- Landing pages, portfolios and personal sites
+- Custom web applications
+- Redesigns of websites that have aged
+- Ongoing maintenance and speed optimisation
 
-- **BJS**: Codinary offers coding and troubleshooting services for Babylon.js (BJS), a powerful JavaScript framework for 3D graphics. Whether you need help with creating immersive 3D experiences or fixing issues in your BJS projects, Codinary's BJS specialists are here to help.
-</details>
+## Mobile Apps
 
+Android and iOS apps for your customers or your team — from a shopping app to an internal tool your staff use on the move.
 
-<details>
-<summary><strong>SMM Services</strong></summary>
-<br>
+- Android and iOS apps for your customers or your team — from a shopping app to an internal tool your staff use on the move.
+- Android and iOS apps
+- Cross-platform apps from a single codebase
+- Customer-facing and e-commerce apps
+- Apps for employees and internal operations
+- Updates and maintenance after launch
 
-Codinary provides social media management services for major platforms, including:
+## AI & Automation
 
-- **Twitter**: Codinary can help you manage your Twitter presence, increase engagement, and reach your target audience effectively.
+Take repetitive work off your team: chatbots that answer customers, documents that get read and filed automatically, reports that no one has to compile by hand.
 
-- **Telegram**: Codinary offers Telegram-specific services such as group management, shilling (customized for specific needs), and bot cloning.
+- Take repetitive work off your team: chatbots that answer customers, documents that get read and filed automatically, reports that no one has to compile by hand.
+- AI chatbots and virtual assistants
+- Customer support automation
+- Workflow and business process automation
+- Document processing and data extraction
+- AI-powered analytics and reporting
+- AI added to software you already use
+- Custom AI and machine learning solutions
 
-- **Facebook**: Codinary can assist you in managing your Facebook page, creating engaging content, and optimizing your social media strategy.
+## Integrations & APIs
 
-- **Instagram**: Codinary can help you enhance your Instagram profile, increase followers, and create visually appealing content.
+Make your systems talk to each other, so nobody has to type the same order into three different places.
 
-- **TikTok**: Codinary offers TikTok management services to help you grow your TikTok presence, optimize your videos, and engage with your audience effectively.
+- Make your systems talk to each other, so nobody has to type the same order into three different places.
+- Payment gateway integration
+- WhatsApp Business API
+- CRM, ERP and e-commerce integrations
+- Custom API development
+- Database and system integrations
+- Modernising legacy software
 
-- **Other platforms**: Codinary also provides social media management services for platforms like VK, Quora, website hits, and more. Contact Codinary to discuss your specific requirements.
-</details>
+## Hosting, Email & Domains
 
+We host and look after what we build — and your business email and domain too — so you have one team to call instead of several vendors.
 
-<details>
-<summary><strong>Digital Designing Services</strong></summary>
-<br>
+- We host and look after what we build — and your business email and domain too — so you have one team to call instead of several vendors.
+- Website and application hosting
+- VPS and dedicated server management
+- Cloud setup, server migration and scaling
+- Database hosting and S3-compatible storage
+- Business email on your own domain, including migration and spam protection
+- Domain, DNS, SSL and CDN setup
 
-Codinary offers a wide range of digital designing services, including:
+S3 object storage pricing: https://www.codizary.com/services/s3-storage
 
-- **Posters**: Codinary can design eye-catching posters for various purposes such as events, promotions, or advertising campaigns.
+## Security, Backup & Support
 
-- **ID Cards**: Codinary provides professional ID card designing services, tailored to your organization's needs.
+Keep it running and keep it safe: security set up properly, backups that are there when you need them, and someone to call when something breaks.
 
-- **Certificates**: Codinary can design attractive certificates for awards, achievements, or training programs.
+- Keep it running and keep it safe: security set up properly, backups that are there when you need them, and someone to call when something breaks.
+- Server, website and application security
+- Automated and cloud backups
+- Disaster recovery and data restoration
+- Access control and permission management
+- Security monitoring
+- IT and software consulting, including reviews of existing systems
+- Ongoing maintenance and managed technical support
 
-- **Invitations**: Codinary offers invitation design services for weddings, meetings, parties, and other events.
+## Contact
 
-- **Resume**: Codinary can create visually appealing and professional resumes that make a lasting impression.
-
-- **Logo designing**: Codinary specializes in minimalist text logo designing, incorporating letter icons to create unique brand identities.
-
-- **Advert designing**: Codinary can design compelling advertisements for online and offline marketing campaigns.
-
-- **Social media post designing**: Codinary offers social media post designing services to help you create engaging and visually appealing content for various platforms.
-
-- **Other services**: Codinary also provides designing services for specific needs such as advert designing and more. Contact Codinary for further discussions and customized solutions.
-</details>
-
-
-<details>
-<summary><strong>Telegram Special Services</strong></summary>
-<br>
-
-- **Shilling**: Codinary provides customized shilling services for Telegram channels and groups, tailored to your specific requirements.
-
-- **Bot Cloning**: Codinary can clone and customize Telegram bots according to your desired features and functionalities.
-
-- **Group Handling**: Codinary specializes in managing and optimizing Telegram groups, helping you create engaging communities and streamline group activities.
-
-- **Specialized Bots**: Codinary can develop specialized bots for various purposes, including moderation, automation, and customized interactions in Telegram.
-
-For more information and to discuss your specific Telegram-related needs, contact Codinary.
-</details>
-
-
-<details>
-<summary><strong>Hosting Services</strong></summary>
-<br>
-
-Codinary provides various hosting options, including:
-
-- **Shared Script Hosting**: Codinary offers shared script hosting services, allowing you to host your scripts on shared servers for cost-effective solutions.
-
-- **Dedicated VPS Script Hosting**: Codinary provides dedicated virtual private server (VPS) script hosting, offering enhanced performance and control for your scripts.
-
-- **Website Hosting**: Codinary offers reliable website hosting services, ensuring your website is accessible and performs optimally.
-
-- **Domain Registration**: Codinary can assist you with domain registration and management, helping you secure and manage your online presence effectively.
-
-For more details about the hosting services and to choose the most suitable option for your requirements, contact us on any of the social media platforms.
-
-
-</details>
+- Website: https://www.codizary.com
+- Services in detail: https://www.codizary.com/services
+- Email: hello@codizary.com

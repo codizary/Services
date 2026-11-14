@@ -6,7 +6,6 @@ Codizary is a software development and IT solutions company: business software, 
 
 Software built around how your business already works — one system for sales, stock, billing, staff and customers instead of a pile of spreadsheets.
 
-- Software built around how your business already works — one system for sales, stock, billing, staff and customers instead of a pile of spreadsheets.
 - CRM and customer or client portals
 - ERP and business management systems
 - Inventory, billing, invoicing and POS
@@ -19,7 +18,6 @@ Software built around how your business already works — one system for sales, 
 
 Company websites, online stores and landing pages that load fast, work properly on a phone, and are easy for you to keep up to date.
 
-- Company websites, online stores and landing pages that load fast, work properly on a phone, and are easy for you to keep up to date.
 - Business and corporate websites
 - E-commerce stores
 - Landing pages, portfolios and personal sites
@@ -31,7 +29,6 @@ Company websites, online stores and landing pages that load fast, work properly 
 
 Android and iOS apps for your customers or your team — from a shopping app to an internal tool your staff use on the move.
 
-- Android and iOS apps for your customers or your team — from a shopping app to an internal tool your staff use on the move.
 - Android and iOS apps
 - Cross-platform apps from a single codebase
 - Customer-facing and e-commerce apps
@@ -42,7 +39,6 @@ Android and iOS apps for your customers or your team — from a shopping app to 
 
 Take repetitive work off your team: chatbots that answer customers, documents that get read and filed automatically, reports that no one has to compile by hand.
 
-- Take repetitive work off your team: chatbots that answer customers, documents that get read and filed automatically, reports that no one has to compile by hand.
 - AI chatbots and virtual assistants
 - Customer support automation
 - Workflow and business process automation
@@ -55,7 +51,6 @@ Take repetitive work off your team: chatbots that answer customers, documents th
 
 Make your systems talk to each other, so nobody has to type the same order into three different places.
 
-- Make your systems talk to each other, so nobody has to type the same order into three different places.
 - Payment gateway integration
 - WhatsApp Business API
 - CRM, ERP and e-commerce integrations
@@ -67,7 +62,6 @@ Make your systems talk to each other, so nobody has to type the same order into 
 
 We host and look after what we build — and your business email and domain too — so you have one team to call instead of several vendors.
 
-- We host and look after what we build — and your business email and domain too — so you have one team to call instead of several vendors.
 - Website and application hosting
 - VPS and dedicated server management
 - Cloud setup, server migration and scaling
@@ -81,7 +75,6 @@ S3 object storage pricing: https://www.codizary.com/services/s3-storage
 
 Keep it running and keep it safe: security set up properly, backups that are there when you need them, and someone to call when something breaks.
 
-- Keep it running and keep it safe: security set up properly, backups that are there when you need them, and someone to call when something breaks.
 - Server, website and application security
 - Automated and cloud backups
 - Disaster recovery and data restoration
